@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "597557028301",
+    "project_id": "park-your-vehicle-2e79e",
+    "storage_bucket": "park-your-vehicle-2e79e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597557028301:android:a2111d178d94ce372d9084",
+        "android_client_info": {
+          "package_name": "com.example.park_your_vehicle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0IaWAiAYOtcrEdLHpN6xmuxNE0ie-gAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
